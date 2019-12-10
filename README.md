@@ -1,3 +1,3 @@
 # my_repository
 
-test 
+test build 
